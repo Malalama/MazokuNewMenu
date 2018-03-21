@@ -1,0 +1,4603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mazes><mazes length="200">
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 1, 2</TilePoint>
+          <TilePoint length="5">2, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">2, 1, 0, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 1, 2, 1</TilePoint>
+          <TilePoint length="5">2, 0, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>7</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 2, 1</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 1</TilePoint>
+          <TilePoint length="5">1, 2, 0, 1, 1</TilePoint>
+          <TilePoint length="5">2, 1, 0, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 1, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 1, 1</TilePoint>
+          <TilePoint length="5">2, 1, 0, 1, 0</TilePoint>
+          <TilePoint length="5">0, 0, 1, 1, 2</TilePoint>
+          <TilePoint length="5">1, 0, 0, 0, 2</TilePoint>
+          <TilePoint length="5">1, 1, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 0, 1</TilePoint>
+          <TilePoint length="5">2, 1, 0, 2, 0</TilePoint>
+          <TilePoint length="5">0, 2, 1, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 1, 2, 1</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>6</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 0, 1</TilePoint>
+          <TilePoint length="5">2, 0, 1, 0, 1</TilePoint>
+          <TilePoint length="5">2, 2, 1, 2, 0</TilePoint>
+          <TilePoint length="5">2, 2, 2, 2, 1</TilePoint>
+          <TilePoint length="5">1, 1, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 2, 1</TilePoint>
+          <TilePoint length="5">2, 2, 0, 0, 0</TilePoint>
+          <TilePoint length="5">0, 1, 2, 2, 1</TilePoint>
+          <TilePoint length="5">0, 0, 1, 0, 0</TilePoint>
+          <TilePoint length="5">1, 1, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 0, 0</TilePoint>
+          <TilePoint length="5">2, 1, 2, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 0, 2, 1, 1</TilePoint>
+          <TilePoint length="5">2, 1, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">1, 0, 2, 2, 0</TilePoint>
+          <TilePoint length="5">0, 1, 2, 1, 0</TilePoint>
+          <TilePoint length="5">0, 2, 2, 2, 1</TilePoint>
+          <TilePoint length="5">2, 2, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>6</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 2, 2</TilePoint>
+          <TilePoint length="5">2, 0, 2, 1, 1</TilePoint>
+          <TilePoint length="5">0, 2, 0, 0, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 0, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 2, 0</TilePoint>
+          <TilePoint length="5">1, 2, 1, 1, 1</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 0</TilePoint>
+          <TilePoint length="5">0, 0, 0, 1, 1</TilePoint>
+          <TilePoint length="5">0, 0, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 1, 0</TilePoint>
+          <TilePoint length="5">0, 1, 1, 0, 2</TilePoint>
+          <TilePoint length="5">2, 2, 2, 2, 1</TilePoint>
+          <TilePoint length="5">1, 1, 0, 2, 1</TilePoint>
+          <TilePoint length="5">2, 2, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>6</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 0, 0</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 2</TilePoint>
+          <TilePoint length="5">0, 0, 2, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 0, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 0, 0</TilePoint>
+          <TilePoint length="5">1, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">2, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">1, 1, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 0, 2</TilePoint>
+          <TilePoint length="5">0, 0, 2, 0, 2</TilePoint>
+          <TilePoint length="5">2, 2, 1, 1, 1</TilePoint>
+          <TilePoint length="5">2, 0, 0, 2, 1</TilePoint>
+          <TilePoint length="5">2, 1, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 0, 0</TilePoint>
+          <TilePoint length="5">1, 1, 0, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 2, 2, 0</TilePoint>
+          <TilePoint length="5">2, 0, 2, 0, 1</TilePoint>
+          <TilePoint length="5">0, 0, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 1, 0</TilePoint>
+          <TilePoint length="5">2, 2, 2, 0, 1</TilePoint>
+          <TilePoint length="5">2, 2, 2, 1, 0</TilePoint>
+          <TilePoint length="5">2, 2, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>6</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 1, 0</TilePoint>
+          <TilePoint length="5">0, 0, 2, 0, 0</TilePoint>
+          <TilePoint length="5">0, 1, 1, 0, 2</TilePoint>
+          <TilePoint length="5">0, 2, 1, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 0, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 0</TilePoint>
+          <TilePoint length="5">1, 0, 1, 2, 1</TilePoint>
+          <TilePoint length="5">2, 0, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 0, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>1</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 1, 2</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 2</TilePoint>
+          <TilePoint length="5">1, 1, 0, 0, 1</TilePoint>
+          <TilePoint length="5">1, 2, 1, 1, 1</TilePoint>
+          <TilePoint length="5">1, 1, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 0, 2, 1</TilePoint>
+          <TilePoint length="5">2, 1, 1, 0, 2</TilePoint>
+          <TilePoint length="5">0, 2, 2, 2, 0</TilePoint>
+          <TilePoint length="5">2, 2, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 0, 1, 2, 0</TilePoint>
+          <TilePoint length="5">2, 2, 1, 0, 2</TilePoint>
+          <TilePoint length="5">1, 0, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 2, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 1, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 2, 0</TilePoint>
+          <TilePoint length="5">0, 0, 2, 1, 1</TilePoint>
+          <TilePoint length="5">1, 2, 1, 0, 1</TilePoint>
+          <TilePoint length="5">2, 1, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 2, 0</TilePoint>
+          <TilePoint length="5">2, 1, 0, 0, 2</TilePoint>
+          <TilePoint length="5">0, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 2, 1, 1, 2</TilePoint>
+          <TilePoint length="5">1, 1, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 1, 2, 0</TilePoint>
+          <TilePoint length="5">2, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">1, 2, 1, 1, 1</TilePoint>
+          <TilePoint length="5">1, 2, 0, 1, 1</TilePoint>
+          <TilePoint length="5">1, 2, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>7</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 2, 0</TilePoint>
+          <TilePoint length="5">0, 2, 1, 2, 2</TilePoint>
+          <TilePoint length="5">2, 2, 1, 1, 1</TilePoint>
+          <TilePoint length="5">0, 1, 1, 2, 2</TilePoint>
+          <TilePoint length="5">2, 1, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 1, 1</TilePoint>
+          <TilePoint length="5">0, 1, 1, 2, 0</TilePoint>
+          <TilePoint length="5">1, 2, 2, 1, 0</TilePoint>
+          <TilePoint length="5">1, 1, 0, 1, 2</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 2, 1</TilePoint>
+          <TilePoint length="5">0, 2, 0, 0, 2</TilePoint>
+          <TilePoint length="5">0, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">0, 1, 1, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 1, 1, 1</TilePoint>
+          <TilePoint length="5">1, 1, 0, 0, 1</TilePoint>
+          <TilePoint length="5">2, 0, 0, 1, 1</TilePoint>
+          <TilePoint length="5">1, 1, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 1, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 1, 1</TilePoint>
+          <TilePoint length="5">0, 1, 2, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 1, 2, 1</TilePoint>
+          <TilePoint length="5">2, 0, 1, 0, 1</TilePoint>
+          <TilePoint length="5">0, 1, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 1, 1</TilePoint>
+          <TilePoint length="5">1, 2, 0, 0, 1</TilePoint>
+          <TilePoint length="5">1, 2, 2, 1, 1</TilePoint>
+          <TilePoint length="5">0, 0, 1, 2, 1</TilePoint>
+          <TilePoint length="5">0, 0, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 2, 0, 2</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 1</TilePoint>
+          <TilePoint length="5">0, 2, 2, 0, 2</TilePoint>
+          <TilePoint length="5">2, 0, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>6</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 1, 2, 1</TilePoint>
+          <TilePoint length="5">2, 0, 1, 0, 0</TilePoint>
+          <TilePoint length="5">0, 1, 0, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 1, 1</TilePoint>
+          <TilePoint length="5">2, 0, 2, 1, 1</TilePoint>
+          <TilePoint length="5">0, 1, 2, 2, 2</TilePoint>
+          <TilePoint length="5">0, 0, 0, 0, 0</TilePoint>
+          <TilePoint length="5">0, 2, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>1</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 0, 0</TilePoint>
+          <TilePoint length="5">0, 0, 1, 0, 2</TilePoint>
+          <TilePoint length="5">1, 1, 0, 1, 1</TilePoint>
+          <TilePoint length="5">0, 1, 1, 0, 0</TilePoint>
+          <TilePoint length="5">0, 2, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 2, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 0, 0</TilePoint>
+          <TilePoint length="5">0, 1, 1, 2, 0</TilePoint>
+          <TilePoint length="5">2, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">1, 2, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 0, 0</TilePoint>
+          <TilePoint length="5">2, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">2, 1, 2, 0, 1</TilePoint>
+          <TilePoint length="5">1, 2, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 0, 0</TilePoint>
+          <TilePoint length="5">2, 1, 1, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 0, 1, 2</TilePoint>
+          <TilePoint length="5">1, 0, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 1, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 1, 2</TilePoint>
+          <TilePoint length="5">1, 2, 2, 1, 2</TilePoint>
+          <TilePoint length="5">1, 0, 0, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 1, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 2, 2</TilePoint>
+          <TilePoint length="5">0, 1, 1, 1, 1</TilePoint>
+          <TilePoint length="5">2, 0, 0, 2, 0</TilePoint>
+          <TilePoint length="5">0, 1, 1, 1, 1</TilePoint>
+          <TilePoint length="5">2, 0, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 1, 0</TilePoint>
+          <TilePoint length="5">0, 1, 1, 0, 1</TilePoint>
+          <TilePoint length="5">2, 2, 1, 1, 2</TilePoint>
+          <TilePoint length="5">1, 2, 0, 2, 0</TilePoint>
+          <TilePoint length="5">1, 0, 1, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 1, 1, 2, 0</TilePoint>
+          <TilePoint length="5">1, 1, 1, 2, 0</TilePoint>
+          <TilePoint length="5">0, 1, 1, 0, 1</TilePoint>
+          <TilePoint length="5">2, 0, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">1, 2, 2, 0, 2</TilePoint>
+          <TilePoint length="5">2, 0, 2, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 0, 0, 2</TilePoint>
+          <TilePoint length="5">2, 0, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>7</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 0, 0</TilePoint>
+          <TilePoint length="5">2, 2, 1, 1, 2</TilePoint>
+          <TilePoint length="5">1, 2, 1, 2, 0</TilePoint>
+          <TilePoint length="5">1, 0, 0, 2, 1</TilePoint>
+          <TilePoint length="5">0, 2, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 0, 1</TilePoint>
+          <TilePoint length="5">1, 2, 2, 0, 1</TilePoint>
+          <TilePoint length="5">0, 2, 0, 2, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 2, 2</TilePoint>
+          <TilePoint length="5">2, 1, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 1, 0</TilePoint>
+          <TilePoint length="5">2, 0, 0, 0, 0</TilePoint>
+          <TilePoint length="5">1, 0, 2, 1, 0</TilePoint>
+          <TilePoint length="5">0, 1, 0, 2, 0</TilePoint>
+          <TilePoint length="5">1, 0, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>0</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 0, 1</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 1</TilePoint>
+          <TilePoint length="5">2, 2, 2, 1, 2</TilePoint>
+          <TilePoint length="5">2, 0, 2, 0, 0</TilePoint>
+          <TilePoint length="5">0, 1, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 1, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 2, 0</TilePoint>
+          <TilePoint length="5">2, 1, 1, 2, 0</TilePoint>
+          <TilePoint length="5">0, 0, 0, 2, 2</TilePoint>
+          <TilePoint length="5">2, 1, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>6</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">0, 1, 1, 0, 2</TilePoint>
+          <TilePoint length="5">1, 2, 1, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 2, 1, 0</TilePoint>
+          <TilePoint length="5">2, 0, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 0, 0</TilePoint>
+          <TilePoint length="5">1, 0, 1, 0, 1</TilePoint>
+          <TilePoint length="5">1, 2, 1, 2, 2</TilePoint>
+          <TilePoint length="5">1, 2, 0, 1, 2</TilePoint>
+          <TilePoint length="5">1, 2, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 0, 1</TilePoint>
+          <TilePoint length="5">2, 2, 1, 0, 1</TilePoint>
+          <TilePoint length="5">1, 1, 1, 2, 0</TilePoint>
+          <TilePoint length="5">0, 2, 0, 0, 0</TilePoint>
+          <TilePoint length="5">1, 1, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 1, 0</TilePoint>
+          <TilePoint length="5">0, 1, 0, 0, 1</TilePoint>
+          <TilePoint length="5">0, 2, 0, 2, 2</TilePoint>
+          <TilePoint length="5">0, 1, 2, 0, 1</TilePoint>
+          <TilePoint length="5">0, 1, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 1, 2</TilePoint>
+          <TilePoint length="5">1, 0, 2, 2, 0</TilePoint>
+          <TilePoint length="5">0, 0, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 0, 1, 1, 0</TilePoint>
+          <TilePoint length="5">0, 2, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 1, 1</TilePoint>
+          <TilePoint length="5">1, 1, 1, 0, 1</TilePoint>
+          <TilePoint length="5">1, 2, 1, 0, 1</TilePoint>
+          <TilePoint length="5">1, 1, 1, 2, 1</TilePoint>
+          <TilePoint length="5">2, 2, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 2, 1, 1</TilePoint>
+          <TilePoint length="5">0, 0, 1, 0, 1</TilePoint>
+          <TilePoint length="5">0, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">1, 1, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 0, 0</TilePoint>
+          <TilePoint length="5">0, 1, 2, 2, 0</TilePoint>
+          <TilePoint length="5">0, 1, 2, 1, 0</TilePoint>
+          <TilePoint length="5">0, 2, 0, 1, 1</TilePoint>
+          <TilePoint length="5">1, 0, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 0, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 2, 0</TilePoint>
+          <TilePoint length="5">0, 0, 0, 1, 0</TilePoint>
+          <TilePoint length="5">2, 1, 1, 0, 1</TilePoint>
+          <TilePoint length="5">1, 0, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 2, 1</TilePoint>
+          <TilePoint length="5">0, 1, 2, 0, 1</TilePoint>
+          <TilePoint length="5">0, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">0, 2, 0, 0, 1</TilePoint>
+          <TilePoint length="5">0, 1, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 0, 1</TilePoint>
+          <TilePoint length="5">1, 2, 2, 2, 0</TilePoint>
+          <TilePoint length="5">1, 2, 1, 2, 1</TilePoint>
+          <TilePoint length="5">1, 0, 0, 0, 0</TilePoint>
+          <TilePoint length="5">0, 0, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 0, 1</TilePoint>
+          <TilePoint length="5">1, 1, 0, 2, 0</TilePoint>
+          <TilePoint length="5">2, 1, 0, 0, 2</TilePoint>
+          <TilePoint length="5">0, 0, 1, 2, 0</TilePoint>
+          <TilePoint length="5">1, 0, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 1, 0</TilePoint>
+          <TilePoint length="5">1, 0, 0, 2, 0</TilePoint>
+          <TilePoint length="5">1, 1, 2, 1, 0</TilePoint>
+          <TilePoint length="5">1, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 2, 1</TilePoint>
+          <TilePoint length="5">1, 0, 1, 1, 2</TilePoint>
+          <TilePoint length="5">1, 2, 0, 0, 0</TilePoint>
+          <TilePoint length="5">0, 1, 2, 2, 1</TilePoint>
+          <TilePoint length="5">2, 2, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 2, 0</TilePoint>
+          <TilePoint length="5">2, 1, 0, 0, 1</TilePoint>
+          <TilePoint length="5">0, 0, 1, 1, 0</TilePoint>
+          <TilePoint length="5">1, 2, 2, 1, 1</TilePoint>
+          <TilePoint length="5">2, 1, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 1, 0</TilePoint>
+          <TilePoint length="5">0, 0, 1, 0, 1</TilePoint>
+          <TilePoint length="5">0, 1, 1, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 1, 1, 2</TilePoint>
+          <TilePoint length="5">0, 0, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 1, 1</TilePoint>
+          <TilePoint length="5">1, 0, 2, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 2, 2, 0</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 2</TilePoint>
+          <TilePoint length="5">2, 0, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>7</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 1, 0</TilePoint>
+          <TilePoint length="5">2, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">2, 1, 1, 0, 0</TilePoint>
+          <TilePoint length="5">1, 2, 1, 2, 1</TilePoint>
+          <TilePoint length="5">2, 0, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 1, 0, 2</TilePoint>
+          <TilePoint length="5">1, 1, 2, 2, 0</TilePoint>
+          <TilePoint length="5">1, 1, 2, 2, 0</TilePoint>
+          <TilePoint length="5">1, 0, 2, 0, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">2, 1, 1, 1, 1</TilePoint>
+          <TilePoint length="5">2, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 1, 0, 1, 0</TilePoint>
+          <TilePoint length="5">0, 2, 1, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 1, 0</TilePoint>
+          <TilePoint length="5">0, 2, 1, 0, 1</TilePoint>
+          <TilePoint length="5">2, 0, 2, 0, 2</TilePoint>
+          <TilePoint length="5">2, 1, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 1, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 2, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 1, 2, 0</TilePoint>
+          <TilePoint length="5">1, 2, 2, 1, 0</TilePoint>
+          <TilePoint length="5">1, 2, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 2, 1</TilePoint>
+          <TilePoint length="5">2, 2, 0, 0, 0</TilePoint>
+          <TilePoint length="5">0, 1, 2, 2, 1</TilePoint>
+          <TilePoint length="5">0, 0, 1, 0, 1</TilePoint>
+          <TilePoint length="5">1, 2, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 0, 2</TilePoint>
+          <TilePoint length="5">2, 0, 2, 1, 0</TilePoint>
+          <TilePoint length="5">0, 2, 0, 1, 1</TilePoint>
+          <TilePoint length="5">2, 2, 0, 1, 0</TilePoint>
+          <TilePoint length="5">0, 0, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 1, 1</TilePoint>
+          <TilePoint length="5">0, 2, 1, 1, 0</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 1</TilePoint>
+          <TilePoint length="5">2, 2, 1, 2, 0</TilePoint>
+          <TilePoint length="5">0, 1, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 2, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 0</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 2</TilePoint>
+          <TilePoint length="5">0, 0, 2, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 2, 0</TilePoint>
+          <TilePoint length="5">1, 2, 1, 2, 1</TilePoint>
+          <TilePoint length="5">2, 1, 0, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 0, 1, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>6</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 2, 1</TilePoint>
+          <TilePoint length="5">2, 0, 0, 2, 1</TilePoint>
+          <TilePoint length="5">1, 1, 1, 1, 0</TilePoint>
+          <TilePoint length="5">2, 2, 0, 1, 1</TilePoint>
+          <TilePoint length="5">2, 2, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 2</TilePoint>
+          <TilePoint length="5">2, 0, 2, 2, 1</TilePoint>
+          <TilePoint length="5">1, 1, 1, 2, 1</TilePoint>
+          <TilePoint length="5">2, 0, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>7</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 1, 2</TilePoint>
+          <TilePoint length="5">0, 0, 1, 0, 1</TilePoint>
+          <TilePoint length="5">1, 1, 1, 2, 0</TilePoint>
+          <TilePoint length="5">1, 1, 1, 0, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 2, 1</TilePoint>
+          <TilePoint length="5">1, 1, 0, 1, 0</TilePoint>
+          <TilePoint length="5">2, 0, 2, 0, 2</TilePoint>
+          <TilePoint length="5">0, 0, 1, 0, 2</TilePoint>
+          <TilePoint length="5">0, 2, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 0, 0</TilePoint>
+          <TilePoint length="5">1, 1, 0, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 2, 2, 0</TilePoint>
+          <TilePoint length="5">2, 0, 2, 0, 1</TilePoint>
+          <TilePoint length="5">0, 0, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 1, 2, 0</TilePoint>
+          <TilePoint length="5">1, 0, 1, 1, 2</TilePoint>
+          <TilePoint length="5">0, 0, 1, 2, 1</TilePoint>
+          <TilePoint length="5">0, 2, 0, 1, 2</TilePoint>
+          <TilePoint length="5">2, 1, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 2, 1</TilePoint>
+          <TilePoint length="5">0, 1, 2, 0, 0</TilePoint>
+          <TilePoint length="5">1, 1, 1, 1, 2</TilePoint>
+          <TilePoint length="5">0, 0, 2, 1, 1</TilePoint>
+          <TilePoint length="5">0, 2, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 1, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 0, 0, 2</TilePoint>
+          <TilePoint length="5">1, 2, 1, 1, 0</TilePoint>
+          <TilePoint length="5">1, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 0, 1</TilePoint>
+          <TilePoint length="5">2, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">1, 1, 0, 1, 1</TilePoint>
+          <TilePoint length="5">2, 1, 0, 1, 1</TilePoint>
+          <TilePoint length="5">0, 1, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 0, 0, 0, 1</TilePoint>
+          <TilePoint length="5">2, 1, 0, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 2, 0</TilePoint>
+          <TilePoint length="5">2, 0, 2, 0, 1</TilePoint>
+          <TilePoint length="5">0, 0, 2, 0, 2</TilePoint>
+          <TilePoint length="5">1, 0, 0, 1, 1</TilePoint>
+          <TilePoint length="5">1, 2, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>1</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 2, 1, 1, 2</TilePoint>
+          <TilePoint length="5">0, 2, 1, 0, 1</TilePoint>
+          <TilePoint length="5">0, 1, 2, 0, 0</TilePoint>
+          <TilePoint length="5">1, 0, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 2, 1</TilePoint>
+          <TilePoint length="5">0, 1, 1, 0, 0</TilePoint>
+          <TilePoint length="5">0, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 2, 2, 2, 0</TilePoint>
+          <TilePoint length="5">1, 1, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>1</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 0, 1</TilePoint>
+          <TilePoint length="5">0, 0, 0, 1, 1</TilePoint>
+          <TilePoint length="5">2, 1, 2, 2, 0</TilePoint>
+          <TilePoint length="5">1, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">1, 2, 1, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 2, 0</TilePoint>
+          <TilePoint length="5">1, 0, 2, 1, 1</TilePoint>
+          <TilePoint length="5">1, 1, 1, 0, 1</TilePoint>
+          <TilePoint length="5">2, 1, 0, 1, 1</TilePoint>
+          <TilePoint length="5">1, 0, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 1, 0, 0</TilePoint>
+          <TilePoint length="5">1, 0, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 2, 2, 1, 2</TilePoint>
+          <TilePoint length="5">1, 1, 2, 1, 2</TilePoint>
+          <TilePoint length="5">1, 1, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>7</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 0, 0</TilePoint>
+          <TilePoint length="5">1, 1, 2, 0, 0</TilePoint>
+          <TilePoint length="5">1, 1, 1, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>1</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 0, 0</TilePoint>
+          <TilePoint length="5">0, 0, 0, 2, 0</TilePoint>
+          <TilePoint length="5">1, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">0, 0, 1, 2, 1</TilePoint>
+          <TilePoint length="5">0, 2, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>1</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 0, 1</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 0</TilePoint>
+          <TilePoint length="5">0, 0, 1, 0, 0</TilePoint>
+          <TilePoint length="5">0, 1, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 2, 2</TilePoint>
+          <TilePoint length="5">2, 1, 0, 1, 2</TilePoint>
+          <TilePoint length="5">0, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">1, 1, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>7</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 1, 2</TilePoint>
+          <TilePoint length="5">1, 1, 1, 1, 2</TilePoint>
+          <TilePoint length="5">2, 1, 0, 1, 0</TilePoint>
+          <TilePoint length="5">2, 1, 1, 0, 1</TilePoint>
+          <TilePoint length="5">1, 2, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 0, 1</TilePoint>
+          <TilePoint length="5">2, 2, 1, 2, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 0, 0</TilePoint>
+          <TilePoint length="5">0, 1, 0, 1, 1</TilePoint>
+          <TilePoint length="5">1, 1, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 1, 1</TilePoint>
+          <TilePoint length="5">1, 0, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 1</TilePoint>
+          <TilePoint length="5">2, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">2, 2, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 2, 1</TilePoint>
+          <TilePoint length="5">1, 0, 2, 0, 2</TilePoint>
+          <TilePoint length="5">2, 1, 0, 1, 1</TilePoint>
+          <TilePoint length="5">0, 1, 2, 1, 0</TilePoint>
+          <TilePoint length="5">2, 2, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 1, 0</TilePoint>
+          <TilePoint length="5">2, 0, 0, 2, 2</TilePoint>
+          <TilePoint length="5">1, 2, 2, 1, 0</TilePoint>
+          <TilePoint length="5">0, 1, 0, 1, 2</TilePoint>
+          <TilePoint length="5">2, 0, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 1, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 1</TilePoint>
+          <TilePoint length="5">2, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">2, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">0, 1, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>6</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 1, 0</TilePoint>
+          <TilePoint length="5">2, 2, 1, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 2, 1, 1</TilePoint>
+          <TilePoint length="5">0, 0, 1, 2, 0</TilePoint>
+          <TilePoint length="5">1, 0, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 2, 0, 2</TilePoint>
+          <TilePoint length="5">0, 0, 0, 1, 1</TilePoint>
+          <TilePoint length="5">2, 0, 0, 0, 1</TilePoint>
+          <TilePoint length="5">0, 2, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 1, 0</TilePoint>
+          <TilePoint length="5">2, 0, 0, 0, 0</TilePoint>
+          <TilePoint length="5">0, 2, 0, 1, 2</TilePoint>
+          <TilePoint length="5">2, 0, 0, 0, 0</TilePoint>
+          <TilePoint length="5">1, 2, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>0</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 1, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 2, 1</TilePoint>
+          <TilePoint length="5">0, 2, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 0, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 0, 2</TilePoint>
+          <TilePoint length="5">1, 0, 0, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 1, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 2, 1</TilePoint>
+          <TilePoint length="5">2, 2, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 2, 2</TilePoint>
+          <TilePoint length="5">0, 1, 1, 0, 1</TilePoint>
+          <TilePoint length="5">0, 1, 2, 2, 1</TilePoint>
+          <TilePoint length="5">0, 1, 0, 2, 1</TilePoint>
+          <TilePoint length="5">2, 1, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 1, 2</TilePoint>
+          <TilePoint length="5">0, 0, 2, 2, 0</TilePoint>
+          <TilePoint length="5">2, 0, 2, 0, 1</TilePoint>
+          <TilePoint length="5">0, 1, 2, 1, 2</TilePoint>
+          <TilePoint length="5">1, 0, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 2, 0</TilePoint>
+          <TilePoint length="5">1, 1, 1, 2, 0</TilePoint>
+          <TilePoint length="5">0, 2, 2, 1, 1</TilePoint>
+          <TilePoint length="5">2, 2, 2, 1, 1</TilePoint>
+          <TilePoint length="5">1, 1, 1, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>6</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">2, 0, 2, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 1, 1, 0</TilePoint>
+          <TilePoint length="5">2, 0, 0, 2, 0</TilePoint>
+          <TilePoint length="5">1, 0, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 2, 1, 2</TilePoint>
+          <TilePoint length="5">0, 2, 2, 2, 0</TilePoint>
+          <TilePoint length="5">2, 1, 0, 0, 2</TilePoint>
+          <TilePoint length="5">1, 2, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 2, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 0, 1</TilePoint>
+          <TilePoint length="5">2, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">0, 0, 0, 0, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 1, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 0, 2, 0</TilePoint>
+          <TilePoint length="5">0, 2, 2, 2, 1</TilePoint>
+          <TilePoint length="5">2, 1, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 2, 0</TilePoint>
+          <TilePoint length="5">1, 0, 0, 0, 1</TilePoint>
+          <TilePoint length="5">1, 2, 0, 2, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 0</TilePoint>
+          <TilePoint length="5">0, 0, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 0, 0, 2, 2</TilePoint>
+          <TilePoint length="5">2, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">2, 1, 2, 2, 0</TilePoint>
+          <TilePoint length="5">0, 0, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>6</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 1, 1, 2</TilePoint>
+          <TilePoint length="5">2, 1, 2, 1, 0</TilePoint>
+          <TilePoint length="5">2, 0, 0, 2, 1</TilePoint>
+          <TilePoint length="5">2, 1, 1, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 1, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 0, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 2, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 0</TilePoint>
+          <TilePoint length="5">0, 2, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>1</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 1, 0, 1</TilePoint>
+          <TilePoint length="5">1, 1, 1, 2, 0</TilePoint>
+          <TilePoint length="5">1, 2, 0, 0, 1</TilePoint>
+          <TilePoint length="5">1, 1, 1, 2, 1</TilePoint>
+          <TilePoint length="5">1, 0, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 2, 2</TilePoint>
+          <TilePoint length="5">2, 1, 2, 1, 1</TilePoint>
+          <TilePoint length="5">2, 0, 1, 0, 1</TilePoint>
+          <TilePoint length="5">0, 1, 2, 1, 2</TilePoint>
+          <TilePoint length="5">0, 2, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">0, 0, 1, 2, 0</TilePoint>
+          <TilePoint length="5">0, 0, 2, 2, 1</TilePoint>
+          <TilePoint length="5">1, 0, 0, 1, 2</TilePoint>
+          <TilePoint length="5">1, 0, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>0</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 1, 1</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 2</TilePoint>
+          <TilePoint length="5">1, 2, 2, 0, 2</TilePoint>
+          <TilePoint length="5">1, 1, 0, 2, 0</TilePoint>
+          <TilePoint length="5">0, 2, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 1, 1</TilePoint>
+          <TilePoint length="5">2, 0, 1, 0, 1</TilePoint>
+          <TilePoint length="5">0, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">2, 2, 0, 0, 2</TilePoint>
+          <TilePoint length="5">1, 1, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 0, 1</TilePoint>
+          <TilePoint length="5">1, 1, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 0, 0, 1, 2</TilePoint>
+          <TilePoint length="5">1, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">2, 1, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>6</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 1, 2</TilePoint>
+          <TilePoint length="5">2, 2, 2, 0, 2</TilePoint>
+          <TilePoint length="5">0, 2, 2, 1, 2</TilePoint>
+          <TilePoint length="5">2, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">1, 0, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 0, 0, 1, 0</TilePoint>
+          <TilePoint length="5">0, 0, 1, 1, 2</TilePoint>
+          <TilePoint length="5">2, 1, 1, 1, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 2, 1</TilePoint>
+          <TilePoint length="5">1, 0, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 1, 2, 1</TilePoint>
+          <TilePoint length="5">1, 1, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>7</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 1, 2</TilePoint>
+          <TilePoint length="5">1, 0, 2, 2, 0</TilePoint>
+          <TilePoint length="5">2, 2, 0, 0, 1</TilePoint>
+          <TilePoint length="5">2, 1, 0, 2, 0</TilePoint>
+          <TilePoint length="5">0, 1, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 1, 2</TilePoint>
+          <TilePoint length="5">2, 2, 0, 0, 1</TilePoint>
+          <TilePoint length="5">0, 1, 1, 0, 1</TilePoint>
+          <TilePoint length="5">2, 2, 0, 0, 0</TilePoint>
+          <TilePoint length="5">1, 1, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 0, 1</TilePoint>
+          <TilePoint length="5">0, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">0, 1, 1, 2, 1</TilePoint>
+          <TilePoint length="5">1, 1, 2, 2, 2</TilePoint>
+          <TilePoint length="5">1, 0, 1, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 2, 0</TilePoint>
+          <TilePoint length="5">2, 1, 2, 2, 1</TilePoint>
+          <TilePoint length="5">1, 0, 0, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 1, 2</TilePoint>
+          <TilePoint length="5">1, 2, 2, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 1, 1, 2</TilePoint>
+          <TilePoint length="5">0, 0, 2, 2, 0</TilePoint>
+          <TilePoint length="5">0, 1, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 0, 0</TilePoint>
+          <TilePoint length="5">0, 2, 2, 0, 1</TilePoint>
+          <TilePoint length="5">2, 2, 0, 0, 0</TilePoint>
+          <TilePoint length="5">2, 1, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>0</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 0, 2</TilePoint>
+          <TilePoint length="5">1, 0, 0, 2, 2</TilePoint>
+          <TilePoint length="5">2, 1, 2, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 0, 2</TilePoint>
+          <TilePoint length="5">0, 0, 1, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">0, 1, 2, 2, 2</TilePoint>
+          <TilePoint length="5">1, 0, 1, 2, 1</TilePoint>
+          <TilePoint length="5">1, 0, 0, 2, 0</TilePoint>
+          <TilePoint length="5">0, 0, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>1</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 1, 0</TilePoint>
+          <TilePoint length="5">1, 1, 2, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 1, 0, 2</TilePoint>
+          <TilePoint length="5">1, 1, 2, 1, 1</TilePoint>
+          <TilePoint length="5">2, 1, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>7</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 1, 2</TilePoint>
+          <TilePoint length="5">2, 0, 2, 0, 2</TilePoint>
+          <TilePoint length="5">2, 1, 0, 0, 2</TilePoint>
+          <TilePoint length="5">0, 0, 1, 2, 1</TilePoint>
+          <TilePoint length="5">1, 1, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 0, 1</TilePoint>
+          <TilePoint length="5">1, 1, 0, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 2, 1</TilePoint>
+          <TilePoint length="5">2, 2, 2, 2, 1</TilePoint>
+          <TilePoint length="5">1, 1, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 1, 1</TilePoint>
+          <TilePoint length="5">1, 2, 2, 2, 1</TilePoint>
+          <TilePoint length="5">0, 0, 1, 0, 2</TilePoint>
+          <TilePoint length="5">0, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">1, 0, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 2, 1, 0, 0</TilePoint>
+          <TilePoint length="5">1, 1, 2, 1, 2</TilePoint>
+          <TilePoint length="5">2, 1, 2, 2, 0</TilePoint>
+          <TilePoint length="5">1, 0, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 1, 2</TilePoint>
+          <TilePoint length="5">1, 1, 1, 0, 2</TilePoint>
+          <TilePoint length="5">2, 2, 2, 0, 1</TilePoint>
+          <TilePoint length="5">1, 2, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 1, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 1, 0</TilePoint>
+          <TilePoint length="5">2, 2, 1, 2, 0</TilePoint>
+          <TilePoint length="5">0, 0, 2, 0, 1</TilePoint>
+          <TilePoint length="5">1, 1, 1, 2, 1</TilePoint>
+          <TilePoint length="5">2, 1, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 1, 1</TilePoint>
+          <TilePoint length="5">2, 1, 2, 1, 2</TilePoint>
+          <TilePoint length="5">2, 2, 0, 1, 2</TilePoint>
+          <TilePoint length="5">0, 0, 0, 2, 2</TilePoint>
+          <TilePoint length="5">0, 0, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>6</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 1, 2</TilePoint>
+          <TilePoint length="5">2, 2, 0, 0, 2</TilePoint>
+          <TilePoint length="5">0, 0, 1, 0, 0</TilePoint>
+          <TilePoint length="5">1, 0, 0, 0, 2</TilePoint>
+          <TilePoint length="5">1, 2, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 2, 1, 0, 0</TilePoint>
+          <TilePoint length="5">0, 2, 2, 0, 2</TilePoint>
+          <TilePoint length="5">0, 2, 0, 1, 2</TilePoint>
+          <TilePoint length="5">1, 1, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 1, 0, 0</TilePoint>
+          <TilePoint length="5">1, 1, 2, 0, 0</TilePoint>
+          <TilePoint length="5">1, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">1, 2, 1, 2, 0</TilePoint>
+          <TilePoint length="5">0, 0, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 0, 2</TilePoint>
+          <TilePoint length="5">1, 2, 1, 2, 1</TilePoint>
+          <TilePoint length="5">0, 0, 0, 0, 1</TilePoint>
+          <TilePoint length="5">0, 2, 1, 1, 0</TilePoint>
+          <TilePoint length="5">1, 1, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 0, 2</TilePoint>
+          <TilePoint length="5">1, 0, 1, 2, 0</TilePoint>
+          <TilePoint length="5">2, 0, 2, 0, 1</TilePoint>
+          <TilePoint length="5">0, 0, 0, 1, 1</TilePoint>
+          <TilePoint length="5">2, 0, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>1</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 1, 2</TilePoint>
+          <TilePoint length="5">0, 0, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">1, 1, 2, 0, 1</TilePoint>
+          <TilePoint length="5">1, 1, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 0, 1</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 0</TilePoint>
+          <TilePoint length="5">1, 1, 0, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 2, 0, 1</TilePoint>
+          <TilePoint length="5">0, 0, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 2, 1</TilePoint>
+          <TilePoint length="5">0, 1, 1, 1, 2</TilePoint>
+          <TilePoint length="5">1, 1, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 0, 0, 0</TilePoint>
+          <TilePoint length="5">1, 2, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 2, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 1, 2, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>8</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 2, 0</TilePoint>
+          <TilePoint length="5">1, 1, 0, 2, 2</TilePoint>
+          <TilePoint length="5">0, 0, 0, 1, 0</TilePoint>
+          <TilePoint length="5">2, 0, 2, 2, 0</TilePoint>
+          <TilePoint length="5">1, 2, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 1, 2, 0</TilePoint>
+          <TilePoint length="5">2, 0, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 0, 1, 1, 1</TilePoint>
+          <TilePoint length="5">0, 1, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 1, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>6</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 0, 1</TilePoint>
+          <TilePoint length="5">2, 1, 0, 0, 0</TilePoint>
+          <TilePoint length="5">0, 0, 2, 0, 0</TilePoint>
+          <TilePoint length="5">1, 0, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 1, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>0</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 2, 2, 0</TilePoint>
+          <TilePoint length="5">2, 2, 1, 1, 0</TilePoint>
+          <TilePoint length="5">0, 1, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 2, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 1, 0, 0</TilePoint>
+          <TilePoint length="5">1, 0, 1, 1, 1</TilePoint>
+          <TilePoint length="5">1, 2, 2, 1, 1</TilePoint>
+          <TilePoint length="5">2, 0, 2, 1, 2</TilePoint>
+          <TilePoint length="5">1, 1, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 0, 0</TilePoint>
+          <TilePoint length="5">2, 1, 0, 2, 0</TilePoint>
+          <TilePoint length="5">1, 0, 2, 0, 0</TilePoint>
+          <TilePoint length="5">0, 0, 1, 1, 0</TilePoint>
+          <TilePoint length="5">2, 1, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>1</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 2, 2, 0</TilePoint>
+          <TilePoint length="5">1, 2, 0, 2, 0</TilePoint>
+          <TilePoint length="5">2, 2, 2, 1, 1</TilePoint>
+          <TilePoint length="5">0, 2, 1, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 2, 1, 1</TilePoint>
+          <TilePoint length="5">1, 2, 2, 0, 1</TilePoint>
+          <TilePoint length="5">2, 0, 0, 0, 0</TilePoint>
+          <TilePoint length="5">1, 2, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 1, 1, 2</TilePoint>
+          <TilePoint length="5">2, 1, 0, 1, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 2, 0</TilePoint>
+          <TilePoint length="5">1, 2, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 0, 1</TilePoint>
+          <TilePoint length="5">2, 1, 0, 2, 0</TilePoint>
+          <TilePoint length="5">2, 2, 1, 2, 2</TilePoint>
+          <TilePoint length="5">2, 0, 0, 1, 2</TilePoint>
+          <TilePoint length="5">1, 0, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 2, 1</TilePoint>
+          <TilePoint length="5">2, 0, 0, 2, 1</TilePoint>
+          <TilePoint length="5">0, 1, 1, 2, 1</TilePoint>
+          <TilePoint length="5">0, 0, 0, 0, 0</TilePoint>
+          <TilePoint length="5">1, 2, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 0, 1</TilePoint>
+          <TilePoint length="5">1, 0, 2, 0, 2</TilePoint>
+          <TilePoint length="5">1, 0, 0, 0, 2</TilePoint>
+          <TilePoint length="5">2, 0, 0, 2, 0</TilePoint>
+          <TilePoint length="5">1, 0, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 0, 1</TilePoint>
+          <TilePoint length="5">0, 1, 2, 1, 1</TilePoint>
+          <TilePoint length="5">1, 2, 1, 2, 1</TilePoint>
+          <TilePoint length="5">1, 1, 1, 2, 0</TilePoint>
+          <TilePoint length="5">1, 1, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 1, 1</TilePoint>
+          <TilePoint length="5">0, 1, 2, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 2, 2, 0</TilePoint>
+          <TilePoint length="5">2, 2, 2, 0, 2</TilePoint>
+          <TilePoint length="5">1, 2, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>6</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 2, 0</TilePoint>
+          <TilePoint length="5">2, 1, 1, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 1, 0, 0</TilePoint>
+          <TilePoint length="5">0, 0, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 1, 1</TilePoint>
+          <TilePoint length="5">0, 1, 1, 2, 1</TilePoint>
+          <TilePoint length="5">1, 2, 1, 2, 0</TilePoint>
+          <TilePoint length="5">0, 1, 1, 2, 2</TilePoint>
+          <TilePoint length="5">1, 0, 1, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 0, 0</TilePoint>
+          <TilePoint length="5">2, 1, 1, 1, 2</TilePoint>
+          <TilePoint length="5">1, 2, 0, 2, 0</TilePoint>
+          <TilePoint length="5">2, 0, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 0, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 1, 0, 2</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 1</TilePoint>
+          <TilePoint length="5">1, 0, 1, 0, 0</TilePoint>
+          <TilePoint length="5">1, 0, 1, 0, 0</TilePoint>
+          <TilePoint length="5">1, 1, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 1, 0</TilePoint>
+          <TilePoint length="5">1, 1, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 1, 1, 1, 1</TilePoint>
+          <TilePoint length="5">1, 0, 1, 2, 0</TilePoint>
+          <TilePoint length="5">1, 0, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 1, 1, 2</TilePoint>
+          <TilePoint length="5">1, 0, 1, 0, 0</TilePoint>
+          <TilePoint length="5">0, 0, 1, 1, 0</TilePoint>
+          <TilePoint length="5">2, 0, 2, 1, 0</TilePoint>
+          <TilePoint length="5">0, 2, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 0, 1</TilePoint>
+          <TilePoint length="5">2, 1, 0, 1, 1</TilePoint>
+          <TilePoint length="5">0, 2, 0, 2, 2</TilePoint>
+          <TilePoint length="5">1, 2, 0, 0, 0</TilePoint>
+          <TilePoint length="5">2, 1, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 1, 2</TilePoint>
+          <TilePoint length="5">2, 1, 1, 2, 0</TilePoint>
+          <TilePoint length="5">1, 1, 0, 2, 0</TilePoint>
+          <TilePoint length="5">0, 0, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 2, 0</TilePoint>
+          <TilePoint length="5">0, 1, 1, 1, 1</TilePoint>
+          <TilePoint length="5">2, 0, 2, 1, 0</TilePoint>
+          <TilePoint length="5">1, 1, 0, 0, 1</TilePoint>
+          <TilePoint length="5">0, 2, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 0, 1</TilePoint>
+          <TilePoint length="5">2, 1, 2, 1, 2</TilePoint>
+          <TilePoint length="5">0, 2, 2, 1, 2</TilePoint>
+          <TilePoint length="5">1, 0, 2, 2, 0</TilePoint>
+          <TilePoint length="5">1, 2, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>6</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 0, 1</TilePoint>
+          <TilePoint length="5">1, 2, 0, 1, 2</TilePoint>
+          <TilePoint length="5">2, 0, 2, 1, 1</TilePoint>
+          <TilePoint length="5">1, 1, 1, 0, 0</TilePoint>
+          <TilePoint length="5">0, 1, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 0, 2</TilePoint>
+          <TilePoint length="5">1, 2, 1, 1, 0</TilePoint>
+          <TilePoint length="5">2, 1, 1, 0, 1</TilePoint>
+          <TilePoint length="5">2, 1, 1, 0, 0</TilePoint>
+          <TilePoint length="5">1, 2, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>1</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 1, 2</TilePoint>
+          <TilePoint length="5">0, 0, 0, 2, 0</TilePoint>
+          <TilePoint length="5">0, 1, 0, 1, 1</TilePoint>
+          <TilePoint length="5">1, 0, 0, 1, 2</TilePoint>
+          <TilePoint length="5">2, 2, 1, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>1</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 1, 0, 0</TilePoint>
+          <TilePoint length="5">1, 2, 1, 0, 2</TilePoint>
+          <TilePoint length="5">0, 0, 1, 0, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 2, 0</TilePoint>
+          <TilePoint length="5">0, 1, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 0, 2, 0</TilePoint>
+          <TilePoint length="5">2, 1, 0, 0, 2</TilePoint>
+          <TilePoint length="5">1, 2, 0, 0, 2</TilePoint>
+          <TilePoint length="5">0, 2, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 1, 1, 2</TilePoint>
+          <TilePoint length="5">2, 0, 2, 0, 0</TilePoint>
+          <TilePoint length="5">0, 2, 2, 0, 1</TilePoint>
+          <TilePoint length="5">1, 1, 2, 2, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 1, 2</TilePoint>
+          <TilePoint length="5">2, 2, 2, 1, 1</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 2</TilePoint>
+          <TilePoint length="5">2, 2, 2, 0, 1</TilePoint>
+          <TilePoint length="5">1, 0, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 0, 1</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 0</TilePoint>
+          <TilePoint length="5">1, 0, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 0, 1, 0, 1</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 0, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 2, 0</TilePoint>
+          <TilePoint length="5">2, 0, 2, 1, 0</TilePoint>
+          <TilePoint length="5">0, 2, 0, 1, 1</TilePoint>
+          <TilePoint length="5">0, 2, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 2, 2</TilePoint>
+          <TilePoint length="5">2, 1, 2, 2, 0</TilePoint>
+          <TilePoint length="5">0, 0, 0, 1, 0</TilePoint>
+          <TilePoint length="5">2, 1, 0, 0, 2</TilePoint>
+          <TilePoint length="5">0, 1, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 0, 0</TilePoint>
+          <TilePoint length="5">1, 2, 0, 2, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 2, 1</TilePoint>
+          <TilePoint length="5">2, 2, 0, 2, 1</TilePoint>
+          <TilePoint length="5">0, 0, 1, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 2, 2</TilePoint>
+          <TilePoint length="5">0, 1, 2, 2, 0</TilePoint>
+          <TilePoint length="5">1, 2, 0, 1, 1</TilePoint>
+          <TilePoint length="5">2, 0, 0, 0, 0</TilePoint>
+          <TilePoint length="5">0, 2, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 0, 0, 1</TilePoint>
+          <TilePoint length="5">1, 1, 0, 2, 1</TilePoint>
+          <TilePoint length="5">0, 0, 2, 1, 2</TilePoint>
+          <TilePoint length="5">2, 2, 0, 0, 2</TilePoint>
+          <TilePoint length="5">2, 1, 1, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 0, 1</TilePoint>
+          <TilePoint length="5">0, 1, 2, 0, 0</TilePoint>
+          <TilePoint length="5">2, 2, 0, 0, 1</TilePoint>
+          <TilePoint length="5">0, 1, 1, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 2, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 2, 1, 0</TilePoint>
+          <TilePoint length="5">1, 0, 0, 1, 2</TilePoint>
+          <TilePoint length="5">2, 0, 0, 0, 0</TilePoint>
+          <TilePoint length="5">0, 2, 2, 2, 1</TilePoint>
+          <TilePoint length="5">0, 2, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>1</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">1, 0, 0, 2, 1</TilePoint>
+          <TilePoint length="5">0, 0, 0, 1, 0</TilePoint>
+          <TilePoint length="5">1, 0, 2, 1, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 0, 2, 2</TilePoint>
+          <TilePoint length="5">1, 1, 2, 2, 0</TilePoint>
+          <TilePoint length="5">2, 0, 0, 0, 1</TilePoint>
+          <TilePoint length="5">1, 2, 1, 1, 1</TilePoint>
+          <TilePoint length="5">2, 2, 0, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 2, 2</TilePoint>
+          <TilePoint length="5">1, 1, 2, 2, 1</TilePoint>
+          <TilePoint length="5">2, 1, 0, 1, 0</TilePoint>
+          <TilePoint length="5">0, 1, 2, 2, 2</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 0, 1</TilePoint>
+          <TilePoint length="5">0, 0, 1, 2, 0</TilePoint>
+          <TilePoint length="5">1, 1, 0, 1, 0</TilePoint>
+          <TilePoint length="5">0, 1, 0, 2, 1</TilePoint>
+          <TilePoint length="5">1, 0, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 0, 2</TilePoint>
+          <TilePoint length="5">0, 1, 0, 0, 1</TilePoint>
+          <TilePoint length="5">2, 0, 1, 0, 1</TilePoint>
+          <TilePoint length="5">2, 1, 0, 0, 2</TilePoint>
+          <TilePoint length="5">0, 0, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>1</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 1, 1</TilePoint>
+          <TilePoint length="5">1, 0, 0, 1, 2</TilePoint>
+          <TilePoint length="5">0, 0, 1, 1, 1</TilePoint>
+          <TilePoint length="5">0, 2, 2, 2, 1</TilePoint>
+          <TilePoint length="5">0, 0, 1, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 1, 0</TilePoint>
+          <TilePoint length="5">1, 2, 2, 0, 1</TilePoint>
+          <TilePoint length="5">1, 0, 1, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 2, 2, 2</TilePoint>
+          <TilePoint length="5">0, 2, 0, 2, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>4</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 0, 0, 0</TilePoint>
+          <TilePoint length="5">1, 2, 2, 2, 2</TilePoint>
+          <TilePoint length="5">1, 0, 2, 2, 1</TilePoint>
+          <TilePoint length="5">2, 0, 2, 2, 1</TilePoint>
+          <TilePoint length="5">0, 0, 0, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>2</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 1, 2, 2, 2</TilePoint>
+          <TilePoint length="5">1, 1, 2, 1, 1</TilePoint>
+          <TilePoint length="5">1, 2, 1, 0, 0</TilePoint>
+          <TilePoint length="5">2, 0, 1, 1, 0</TilePoint>
+          <TilePoint length="5">1, 2, 1, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 2, 2, 1, 1</TilePoint>
+          <TilePoint length="5">2, 1, 2, 0, 2</TilePoint>
+          <TilePoint length="5">0, 0, 0, 0, 2</TilePoint>
+          <TilePoint length="5">0, 0, 1, 1, 1</TilePoint>
+          <TilePoint length="5">2, 1, 2, 0, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>3</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+  <Maze>
+     <TilesPoints length="5">
+          <TilePoint length="5">0, 0, 1, 1, 1</TilePoint>
+          <TilePoint length="5">0, 2, 0, 1, 0</TilePoint>
+          <TilePoint length="5">0, 1, 1, 1, 2</TilePoint>
+          <TilePoint length="5">2, 2, 2, 2, 1</TilePoint>
+          <TilePoint length="5">1, 1, 2, 1, 0</TilePoint>
+     </TilesPoints>
+     <oOperators length="5">
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+          <oOperator length="5">+, +, +, +, +</oOperator>
+     </oOperators>
+     <intVictoryScore>5</intVictoryScore>
+     <sizeX>5</sizeX>
+     <sizeY>5</sizeY>
+     <beginX>0</beginX>
+     <beginY>0</beginY>
+     <finalX>4</finalX>
+     <finalY>4</finalY>
+  </Maze>
+</mazes>

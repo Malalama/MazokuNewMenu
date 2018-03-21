@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<com.example.f.testmenu.GridViewItem
+ xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:fontFamily="@font/hamburgerheaven"
+    android:textColor="@color/palette1_darkgrey"
+    android:textSize="30sp"
+    android:paddingLeft="0dip"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:background="@color/palette1_lightgrey"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:scaleType="centerCrop"
+
+    android:height="80dp"
+    android:width="80dp"
+    android:gravity="center"    />
+
+
+
+<!--
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@android:id/text1"
+android:fontFamily="@font/hamburgerheaven"
+android:textColor="@color/palette1_darkgrey"
+android:textSize="30sp"
+android:paddingLeft="0dip"
+android:textAppearance="?android:attr/textAppearanceLarge"
+android:background="@color/palette1_lightgrey"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:height="80dp"
+android:width="80dp"
+android:gravity="center"    />-->

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1989ac</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gray">#808080</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="maroon">#800000</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="lime">#00FF00</color>
+    <color name="teal">#008080</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="navy">#000080</color>
+    <color name="black">#000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="red2">#FF6666</color>
+    <color name="red3">#FFCCCC</color>
+    <color name="blueviolet">#7885cb</color>
+    <color name="kindofgold">#f6bd26</color>
+    <color name="bloodred">#ff1e20</color>
+    <color name="darkishgrey">#756c63</color>
+    <color name="eggwhite">#fffbcc</color>
+    <color name="eggred1">#fd2e2e</color>
+    <color name="eggred2">#cf1b1b</color>
+    <color name="eggred3">#900d0d</color>
+
+    <color name="flashgold">#ffde25</color>
+    <color name="lightgrey">#e8f1f5</color>
+    <color name="seablue">#1989ac</color>
+    <color name="greyblue">#283e56</color>
+
+
+    <color name="palette1_darkergrey">#222831</color>
+    <color name="palette1_darkgrey">#393e46</color>
+    <color name="palette1_seablue">#00adb5</color>
+    <color name="palette1_lightgrey">#eeeeee</color>
+    <color name="palette1_wingreen">#00D70E</color>
+    <color name="palette1_losered">#FF0700</color>
+
+</resources>
